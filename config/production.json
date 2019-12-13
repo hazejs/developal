@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://tomer:tomer@developal-xvarp.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "gihubClientId": "578e676b73bdf50284e5",
+  "githubSecret": "682a3db212740096bc3ceb66aa5330f67211ed95"
+}
